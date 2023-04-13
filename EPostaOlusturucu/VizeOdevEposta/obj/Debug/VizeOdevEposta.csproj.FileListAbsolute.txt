@@ -1,0 +1,8 @@
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\bin\Debug\VizeOdevEposta.exe.config
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\bin\Debug\VizeOdevEposta.exe
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\bin\Debug\VizeOdevEposta.pdb
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\obj\Debug\VizeOdevEposta.csproj.AssemblyReference.cache
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\obj\Debug\VizeOdevEposta.csproj.SuggestedBindingRedirects.cache
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\obj\Debug\VizeOdevEposta.csproj.CoreCompileInputs.cache
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\obj\Debug\VizeOdevEposta.exe
+C:\Users\docto\Desktop\MVC\VizeOdevEposta\VizeOdevEposta\obj\Debug\VizeOdevEposta.pdb
